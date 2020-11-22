@@ -1,0 +1,14 @@
+Description: >
+        Timothy Downey / Man
+        This is a filler description in the standard yml format so that when I open this in a moment in vscode, it knows that it's already yml.
+
+Parameters:
+
+        EnvironmentName:
+            Description: An environment name that will be prefixed to resources
+            Type: String
+
+        VpcCIDR:
+            Description: Please enter the IP range (CIDR notation) for this VPC
+            Type: String
+            Default: 10.0.0.0/16
