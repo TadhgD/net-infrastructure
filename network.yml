@@ -1,6 +1,6 @@
 Description: >
-        Timothy Downey / Man
-        This is a filler description in the standard yml format so that when I open this in a moment in vscode, it knows that it's already yml.
+        Timothy Downey / Person
+        This YAML script defines a network stack for a cloud architecture across two AZs, with a single VPC.
 
 Parameters:
 
